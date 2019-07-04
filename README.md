@@ -1,2 +1,1 @@
-# belajar-react-api-unsplash
-# reactjs-with-unplash-api
+# react-js-with-unsplash-api
